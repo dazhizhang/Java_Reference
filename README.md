@@ -2,10 +2,12 @@
 对象引用
 <br>
 http://www.cnblogs.com/vamei/archive/2013/04/01/2992484.html
+<br>
 (
 https://www.zhihu.com/question/31203609
+<br>
 http://blog.51cto.com/6924918/1283761
-
+<br>
 )
 
 我们之前一直在使用“对象”这个概念，但没有探讨对象在内存中的具体存储方式。这方面的讨论将引出“对象引用”(object reference)这一重要概念。 
